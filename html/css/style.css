@@ -1,0 +1,37 @@
+body {
+    background-color: cornflowerblue;
+}
+
+div.container {
+    background-color: gainsboro;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 1%;
+}
+
+h1 {
+    margin: 0;
+}
+
+input {
+    display: table;
+    margin: 1% auto;
+}
+
+span {
+    color: red;
+}
+
+video {
+    margin-top: 2%;
+    height: 600px;
+    width: 800px;
+}
+
+#center-justify {
+    text-align: center;
+}
+
+#right-justify {
+    text-align: right;
+}
