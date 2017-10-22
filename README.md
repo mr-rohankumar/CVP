@@ -3,7 +3,7 @@
 ![Icon](https://i.imgur.com/ougg2B7.png)
 
 ## Purpose:
-CVP, or computer vision pipeline, is a web-based client to draw a face mesh for an uploaded video of user's choosing; Active Appearence Modelling algorithm from OpenFace to locate facial features and Delaunay Triangulation from OpenCV to create a face mesh.
+CVP, or computer vision pipeline, is a web-based client to draw a face mesh for an uploaded video of user's choosing; Active Appearance Modelling algorithm from OpenFace to locate facial features and Delaunay Triangulation from OpenCV to create a face mesh.
 
 ![Sample](https://i.imgur.com/tdRB7kR.png)
 
